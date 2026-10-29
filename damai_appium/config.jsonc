@@ -1,0 +1,21 @@
+{
+  "server_url": "http://127.0.0.1:4723",
+  "keyword": "王嘉尔",
+  "users": [
+    "王晓龙",
+    "包雨曈",
+    "李金鹏"
+  ],
+  "city": "西安",
+  "date": "2026-11-07 周六 19:30",
+  "price": "看台399元",
+  "price_index": 0,
+  "if_commit_order": true,
+  "prefilled_mode": true,
+  "order_flow_timeout": 60,
+  "sale_start_time": "2026-10-29 18:00:00",
+  "wait_poll_interval": 0.5,
+  "udid": "b8bb9bb0",
+  "device_name": "Android",
+  "platform_version": "16"
+}

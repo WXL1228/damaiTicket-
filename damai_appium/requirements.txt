@@ -1,0 +1,2 @@
+-r ../damai/requirements.txt
+Appium-Python-Client==3.2.0

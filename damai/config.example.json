@@ -1,0 +1,14 @@
+{
+  "index_url": "https://www.damai.cn/",
+  "login_url": "https://passport.damai.cn/login",
+  "target_url": "https://detail.damai.cn/item.htm?id=YOUR_ITEM_ID",
+  "users": ["请替换为实际观演人姓名"],
+  "city": null,
+  "dates": [],
+  "prices": [],
+  "if_listen": false,
+  "if_commit_order": false,
+  "max_retries": 1000,
+  "fast_mode": true,
+  "page_load_delay": 2
+}

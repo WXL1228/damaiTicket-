@@ -1,0 +1,2 @@
+# Install Python dependencies for both the PC and Android clients.
+-r damai_appium/requirements.txt
